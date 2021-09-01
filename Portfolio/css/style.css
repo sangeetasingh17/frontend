@@ -73,10 +73,6 @@ header img {
   border-radius: 50%;
   border-style: groove;
   margin: 20px;
-  /* display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center; */
 }
 .about {
   max-width: 1000px;
@@ -87,18 +83,12 @@ header img {
   justify-content: center;
 }
 .profile-img {
-  /* float: left; */
-  /* width: 400px; */
-  /* position: relative; */
   flex: 1 1 390px;
-  /* display: inline-block; */
 }
 .profile-name {
-  /* width: 550px; */
-  /* padding-top: 30px; */
   flex: 1 1 450px;
-  /* float: left; */
 }
+
 /* Education
 --------------------------------------------------- */
 .education {
